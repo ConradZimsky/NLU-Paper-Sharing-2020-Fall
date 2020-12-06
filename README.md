@@ -1,14 +1,14 @@
 # NLU-Paper-Sharing-2020-Fall
 
-ECNU NLU Course Seminar Group5
+- ECNU NLU Course Seminar Group5
 
 - Date: 12.27 8:00 am - 11:30 am, Sunday
 
-Welcome to Paper Sharing class :)
+Welcome to Paper Sharing Seminar :)
 
 
 ## On Papers
-Please choose recent papers (2020, 2019) from top NLP/AI venues. A (incomplete) list is
+Please select recent papers (2020, 2019) from top NLP/AI venues. A (incomplete) list is
 
 - NLP: ACL, CL, TACL, EMNLP, CoNLL
 - ML: NeurIPS
@@ -17,7 +17,7 @@ Please choose recent papers (2020, 2019) from top NLP/AI venues. A (incomplete) 
 
 
 ## For Individual Presenters
-- please read 1 - 3 papers intensively, submit a study report.
+- Please read 1 - 3 papers intensively, submit a study report.
 
 
 ## For Whole Group
@@ -26,10 +26,10 @@ Please choose recent papers (2020, 2019) from top NLP/AI venues. A (incomplete) 
 - It would be great to keep the presentation in 15 - 20 min.
 
 
-##Schema
+## Schema
 |Member|	Paper|  Conference| 	Materials|
 |   ----   | ----  | ----  |    ----   |
-|Yuhan Yan|	Denoising Relation Extraction from Document-level Distant Supervision | EMNLP-20 | 	[Materials](https://www.aclweb.org/anthology/2020.emnlp-main.300.pdf)|
-|Qi Zhang | Global-to-Local Neural Networks for Document-Level Relation Extraction | EMNLP-20 |  [Materials](https://www.aclweb.org/anthology/2020.emnlp-main.303.pdf)	|
-|Qianqian Han| Double Graph Based Reasoning for Document-level Relation Extraction | EMNLP-20 |  [Materials](https://www.aclweb.org/anthology/2020.emnlp-main.127.pdf)	|
-|Chenqi Xu| Cross-sentence N-ary Relation Extraction using Entity Link and Discourse Relation | CIKM-20 |  [Materials](https://dl.acm.org/doi/pdf/10.1145/3340531.3412011)	|
+| Yuhan Yan|	Denoising Relation Extraction from Document-level Distant Supervision | EMNLP-20| 	[Materials](https://www.aclweb.org/anthology/2020.emnlp-main.300.pdf)|
+| Qi Zhang| Global-to-Local Neural Networks for Document-Level Relation Extraction | EMNLP-20|  [Materials](https://www.aclweb.org/anthology/2020.emnlp-main.303.pdf)	|
+| Qianqian Han| Double Graph Based Reasoning for Document-level Relation Extraction | EMNLP-20|  [Materials](https://www.aclweb.org/anthology/2020.emnlp-main.127.pdf)	|
+| Chenqi Xu| Cross-sentence N-ary Relation Extraction using Entity Link and Discourse Relation | CIKM-20|  [Materials](https://dl.acm.org/doi/pdf/10.1145/3340531.3412011)	|
